@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sellerName": "Vijaya",
+      "productName": "Veg Biryani",
+      "price": 110,
+      "quantity": 30
+    },
+    {
+      "id": 2,
+      "sellerName": "Vijaya",
+      "productName": "Bread",
+      "price": 25,
+      "quantity": 13
+    },
+    {
+      "id": 3,
+      "sellerName": "Vijaya",
+      "productName": "Pie",
+      "price": 45,
+      "quantity": 20
+    },
+    {
+      "id": 4,
+      "sellerName": "Vijaya",
+      "productName": "Burger",
+      "price": 100,
+      "quantity": 100
+    }
+  ]
+}
